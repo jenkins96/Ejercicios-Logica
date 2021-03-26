@@ -9,3 +9,7 @@ El caballo de Mac es más oscuro que el de Smith, pero más rápido y más viejo
 
 Caso 3. Los Cuatro Perros
 Tenemos cuatro perros: galgo, un dogo, un alano y un podenco. Este último come más que el galgo; el alano come más que el galgo y menos que el dogo, pero éste come más que el podenco. ¿Cuál de los cuatro perros come menos?
+
+
+Caso 4. Silencio
+Si Ángela habla más bajo que Rosa y Celia habla más alto que Rosa. ¿Habla Ángela más alto o más bajo que Celia?
