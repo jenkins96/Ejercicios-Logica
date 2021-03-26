@@ -1,0 +1,11 @@
+Caso 1. Los Cuatro Atletas
+De cuatro corredores de atletismo se sabe que C ha llegado inmediatamente detrás de B, y D ha llegado en medio de A y C. ¿Podría usted calcular el orden de llegada?
+
+
+
+Caso 2. Caballos
+El caballo de Mac es más oscuro que el de Smith, pero más rápido y más viejo que el de Jack, que es aún más lento que el de Willy, que es más joven que el de Mac, que es más viejo que el de Smith, que es más claro que el de Willy, aunque el de Jack es más lento y más oscuro que el de Smith. ¿Cuál es el más viejo, cuál es el más lento y cuál es el más claro?
+
+
+Caso 3. Los Cuatro Perros
+Tenemos cuatro perros: galgo, un dogo, un alano y un podenco. Este último come más que el galgo; el alano come más que el galgo y menos que el dogo, pero éste come más que el podenco. ¿Cuál de los cuatro perros come menos?
